@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Review team feedback",
+      "status": "in-progress",
+      "createdAt": "2025-03-18T15:30:00Z",
+      "updatedAt": "2025-03-19T09:45:00Z"
+    },
+    {
+      "id": 2,
+      "description": "Fix UI bugs in dashboard",
+      "status": "done",
+      "createdAt": "2025-03-17T08:20:00Z",
+      "updatedAt": "2025-03-18T14:10:00Z"
+    },
+    {
+      "id": 3,
+      "description": "another task has been entered",
+      "status": "done",
+      "createdAt": "2025-03-21 17:30:57 +0000",
+      "updatedAt": "2025-03-21 17:30:57 +0000"
+    }
+  ]
+}
